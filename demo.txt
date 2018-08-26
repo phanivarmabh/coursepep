@@ -1,0 +1,7 @@
+Class demo
+{
+	public static void miant()
+	{
+		system.out.println("My first java code")
+	}
+}
